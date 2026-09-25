@@ -2,13 +2,15 @@
 
 ## 🚀 About Me
 
-I'm a Cybersecurity and IAM professional with 10+ years of experience across healthcare operations, technical support, and data analytics, now applying that foundation to identity and access management, vulnerability assessment, and security risk analysis. I'm completing my M.S. in Information Technology (Cybersecurity) at Capella University in September 2026.
+I'm a Cybersecurity and IAM professional with 10+ years of experience across healthcare operations, technical support, and data analytics, now applying that foundation to identity and access management, vulnerability assessment, and security risk analysis. I recently earned my M.S. in Information Technology (Cybersecurity) from Capella University (September 2026).
 
 My work blends hands-on technical execution — identity administration, vulnerability scanning, firewall analysis — with the operational and governance judgment built over a decade in HIPAA-regulated environments. I'm especially interested in how identity, access, and security controls work together to protect systems, and I use this GitHub to document the labs, projects, and hands-on learning that support that focus.
 
 ## 🎯 Career Focus
 
-I'm targeting roles in **Cybersecurity Analysis, Identity & Access Management, and Technical Project Management** — bringing together technical security fundamentals, IAM tooling, and real project delivery experience. I'm currently serving as Project Manager for a graduate capstone team building a phishing simulation and security awareness platform, managing delivery in Jira and leading client stakeholder meetings from requirements through launch.
+I'm targeting roles in **Cybersecurity Analysis, Identity & Access Management, and Technical Project Management** — bringing together technical security fundamentals, IAM tooling, and real project delivery experience. For my graduate capstone, I served as Project Manager for a team building a phishing simulation and security awareness platform, managing delivery in Jira and leading client stakeholder meetings from requirements through launch.
+
+📬 I'm currently open to new opportunities — feel free to reach out via LinkedIn.
 
 ## 📂 Featured Projects
 
@@ -56,6 +58,7 @@ A full security enhancement proposal featuring identity governance improvements,
 - CompTIA CySA+
 - CompTIA Security+
 - CompTIA Network+
+- CompTIA Security Analytics Professional (stackable: Security+ + CySA+)
 - Project Management Professional (PMP)
 - Lean Six Sigma Green Belt
 - Microsoft Azure Fundamentals (AZ-900)
@@ -66,5 +69,3 @@ A full security enhancement proposal featuring identity governance improvements,
 ## 📫 Connect With Me
 
 LinkedIn: [linkedin.com/in/kamirasherman](https://www.linkedin.com/in/kamirasherman)
-
-
